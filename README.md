@@ -8,21 +8,13 @@ Backend Software Engineer
 
 ## Engineering Focus
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="22"/> C++
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22"/> Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="22"/> C++ &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22"/> Python &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="22"/> Linux
 
 ```text
 HTTP | TCP/IP | epoll | Async I/O | Docker | Kubernetes
 ```
-
----
-
-## Featured
-
-→ [HTTP Server](https://github.com/AffableAWE/http-server)
-
-→ [Async API Gateway](https://github.com/AffableAWE/async-gateway-proxy)
 
 ---
 
@@ -42,7 +34,3 @@ HTTP | TCP/IP | epoll | Async I/O | Docker | Kubernetes
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="28" title="Neovim" alt="Neovim"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="28" title="SQLite" alt="SQLite"/>
 </p>
-
----
-
-> Build first. Benchmark second. Optimize forever.
