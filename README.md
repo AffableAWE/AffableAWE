@@ -12,9 +12,7 @@ Backend Software Engineer
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22"/> Python &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="22"/> Linux
 
-```text
-HTTP | TCP/IP | epoll | Async I/O | Docker | Kubernetes
-```
+> HTTP │ TCP/IP │ epoll │ Async I/O │ Docker │ Kubernetes
 
 ---
 
