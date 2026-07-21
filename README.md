@@ -18,25 +18,11 @@ HTTP | TCP/IP | epoll | Async I/O | Docker | Kubernetes
 
 ---
 
-## Projects
+## Featured
 
-### HTTP Server
+→ [HTTP Server](https://github.com/AffableAWE/http-server)
 
-HTTP/1.1 server built from scratch with POSIX sockets, epoll, zero-copy I/O and structured logging.
-
-**20,200 req/sec**
-
-→ https://github.com/AffableAWE/http-server
-
----
-
-### Async API Gateway
-
-Configurable reverse proxy supporting routing, retries, authentication and health checks.
-
-**6,180 req/sec**
-
-→ https://github.com/AffableAWE/async-gateway-proxy
+→ [Async API Gateway](https://github.com/AffableAWE/async-gateway-proxy)
 
 ---
 
