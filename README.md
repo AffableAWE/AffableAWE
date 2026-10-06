@@ -2,7 +2,7 @@
 
 Backend Software Engineer
 
-> Why do something in 10 minutes when you can spend 10 hours automating it?
+> Why do something in 10 minutes when you can fail to automate it for 10 hours?
 
 ---
 
